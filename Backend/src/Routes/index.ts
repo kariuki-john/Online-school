@@ -1,0 +1,1 @@
+export{router as getRouter}  from "./routes"

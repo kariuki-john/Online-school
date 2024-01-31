@@ -1,0 +1,13 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+.card{
+    width: 18rem;
+    margin: 15px;
+}
+.container{
+    display: flex;
+    flex-flow: wrap;
+    text-align: center;
+}
